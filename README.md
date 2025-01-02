@@ -1,6 +1,6 @@
-# 🚀 Project: Scholarly Insights Explorer! 📚🔍
+# 🚀 Project: Morrocan Articles Insights Explorer! 📚🔍
 
-Welcome aboard! This project is your trusty guide to navigating the vast world of academic publications, using data from Scopus. 📜✨ We've built a data pipeline that takes raw research data, cleans it up, and structures it for insightful analysis. Let's dive in! 🌊
+Welcome aboard! This project is your trusty guide to navigating the vast world of academic moroccan publications, using data from Scopus. 📜✨ We've built a data pipeline that takes raw research data, cleans it up, and structures it for insightful analysis. Let's dive in! 🌊
 
 ## 🎯 Project Goals
 
@@ -45,8 +45,10 @@ The transformed data is structured into a star schema, optimized for analysis. H
 
 *   **Data Sources:** Scopus (CSV files) 📜
 *   **Cloud Storage:** Azure Blob Storage ☁️
+![azure](Article Storage in blob azure.png) 
 *   **Data Processing:** Databricks with PySpark ✨
 *   **Data Warehousing:** Snowflake ❄️
+  ![sf](snowflake.png) 
 *   **Data Visualization:** Power BI 📊
 
 ## 📝 Transformation Steps
